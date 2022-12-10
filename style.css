@@ -1,4 +1,50 @@
-* {
+body {
       margin: 0;
+}
+
+.top-page {
       padding: 0;
+      /* width: 1920; */
+}
+
+.top-headder {
+      /* outline: 2px solid green; */
+      margin: 40px 375px 83px 375px;
+      padding: 0;
+}
+
+.headder img {}
+
+.menu-list {
+      /* outline: 2px solid blue; */
+      list-style: none;
+}
+
+.menu-link {
+      text-decoration: none;
+}
+
+.top-content {
+      margin: 0px 375px 162px 375px;
+      padding: 0 0 0 0;
+      /* outline: 2px solid red; */
+}
+
+.top-content-info {
+      /* outline: 2px solid firebrick; */
+}
+
+.top-content-tittle {}
+
+.top-content-text {}
+
+.wrp-btn {}
+
+.btn-info {}
+
+.top-content-img {}
+
+.top-logos {
+      /* outline: 2px solid chartreuse; */
+      margin: 0 345px 96px 375px;
 }
